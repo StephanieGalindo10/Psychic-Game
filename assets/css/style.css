@@ -1,0 +1,29 @@
+#music{
+    height: 100px;
+    width: 100px;
+}
+.pause-button{
+    height: 100px;
+    width: 100px;
+
+}
+body, html {
+   
+    margin: 0;
+    height:100%;
+    
+
+   
+} 
+.main{
+    background-image:url("https://i.giphy.com/yGjo90gXlFUac.gif");
+    background-size:cover;
+    height: 100%; 
+    
+    background-image: (http://cdn8.bigcommerce.com/s-q0ildde0m7/images/stencil/1280x1280/products/198/640/2209_clear_gray_civic__57711.1510963618.jpg?c=2&imbypass=on");
+    element.style 
+    width: 0px;
+    height: 299px;
+}
+    
+}

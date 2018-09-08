@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Psychic Game</title>
+  
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        margin: 0;
+        font-family: Arial;
+        font-size: 17px;
+    }
+    
+    .container {
+        position: relative;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+    
+    .container img {vertical-align:middle ;}
+    
+    .container .content {
+        position: absolute;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+        color: #f1f1f1;
+        width: 95%;
+        padding: 60px;
+       
+        
+    }
+    
+    </style>
+
+	
+<body>
+ <div class="main">
+  <div class="container">
+    <h1 class="display-1"></h1>
+    <h1 class="text-center">
+      <strong>Lets Play A Game</strong>
+    </h1>
+  </div>                   
+                     
+  <div id="musicControls" class="text-center">
+    <button id="music" class="btn btn-warning btn-xs theme-button">
+      <audio id="musicsrc" src= "assets/audio/203724__metrostock99__intense-ambient.wav">
+      </audio> Play Music
+    </button>
+    <button class="btn btn-dark btn-xs pause-button">
+      <audio class="fa fa-pause"></audio>Pause Song
+    </button>
+        
+  </div>
+  <audio id="musiclose" src= "assets/audio/266161__scotcampbell__it-s-all-in-your-mind.wav">
+  </audio>
+
+  <audio id="musicwin" src= "assets/audio/213608__dpoggioli__creepy-stinger-laugh.wav">
+</audio>
+
+    <div class="container">
+        <img src="http://cdn8.bigcommerce.com/s-q0ildde0m7/images/stencil/1280x1280/products/198/640/2209_clear_gray_civic__57711.1510963618.jpg?c=2&imbypass=on" alt="format" style="width:100%;">
+
+        <div class="content">
+            <div id="game">
+                <h1>Can you defeat the Psychic Game?</h1>
+                    <p>Guess what letter I'm thinking of! Win and you will recieve good fortune But!  a demon lurks and misfortune will come if you lose!
+             </p>
+                    <p>Total Wins: <span id="wins"></span></p>
+                    <p>Total Losses: <span id="losses"></span></p>
+                    <p>Guesses Left: <span id="left"></span></p>
+                    <p>Your Guesses so far: <span id="guesses"></span></p>
+                </div>
+            </div>
+      </div>
+<script type="text/javascript" src="assets/javascript/game.js">   
+</script>
+
+
+
+    
+</body>
+</html>
