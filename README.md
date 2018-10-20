@@ -1,5 +1,7 @@
 Homework#2psychic
 
+
+Link :  https://stephaniegalindo10.github.io/Psychic-Game/
 For My assignment, I decided to do the Psychic Game using
 
 Javascript 
