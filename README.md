@@ -1,8 +1,19 @@
-# Psychic-Game
 Homework#2psychic
+
+For My assignment, I decided to do the Psychic Game using
+
+Javascript 
+CSS
+HTML
+Audio 
+
+Inspirations: I wanted to create them of the show the Twilight Zone while adding a horror them of the Ojuia board where if you lose a demon will give you great misfortune. 
+
+
+
 Overview
 
-In this assignment, you'll create one of two possible computer games: Word Guess or Psychic. These apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
+In this assignment, you'll create one of two possible computer games: Word Guess or Psychic. These apps will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
 
 Submission on BCS
