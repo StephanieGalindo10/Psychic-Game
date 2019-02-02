@@ -1,15 +1,17 @@
 # Psychic-Game
 
 Link :  https://stephaniegalindo10.github.io/Psychic-Game/
-For my assignment, I decided to do the Psychic Game using
+
+# Beware!!<h1> 
+For my assignment, I decided to do the Psychic Game 
 
 Inspirations: I wanted to create them of the show the Twilight Zone while adding a horror them of the Ojuia board where if you lose a demon will give you great misfortune. 
 
 
 
-# Beware <h1> tag
-![Psychic Game](/image/screenshot.png)
-Format: ![Alt Text](url)
+
+![Psychic Game](image/screenschot.png)
+
 
 
 Javascript 
@@ -31,8 +33,8 @@ Submission on BCS
 
 Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
-![GitHub Logo]()
-Format: ![Alt Text](url)
+![GitHub Logo](image/screenshot.png)
+
 
 Before You Begin
 
@@ -50,7 +52,8 @@ Also in the css folder, make a file called reset.css. Paste into it the code fro
 In the images folder, save whatever images you plan on using.
 
 
-├── assets
+
+ assets
 |  ├── css
 |  |  └── style.css
 |  ├── images
