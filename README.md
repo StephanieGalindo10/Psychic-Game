@@ -19,10 +19,11 @@ Inspirations: I wanted to create them of the show the Twilight Zone while adding
 * jQuery
 
 ## EXTRA
-AUDIO::notes: Link : https://freesound.org/
-Background Image Source : Link : https://www.huffpostbrasil.com/2015/08/03/47-gifs-que-nao-vao-deixar-voce-piscar_a_21691103/
+* AUDIO::notes: Link : https://freesound.org/
+* Background Image Source : Link : https://www.huffpostbrasil.com/2015/08/03/47-gifs-que-nao-vao-deixar-voce-piscar_a_21691103/
 
 
 
-
+## Authors
+* Stephanie Galindo - U.C. Davis Bootcamp
 
