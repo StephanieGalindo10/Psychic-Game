@@ -1,5 +1,4 @@
-# Psychic-Game
- :candle:
+# Psychic-Game  :candle:
 # Beware!!<h1> 
 For my assignment, I decided to do the Psychic Game 
 
